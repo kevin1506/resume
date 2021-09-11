@@ -7,7 +7,6 @@
  - Github：[https://github.com/kevin1506](https://github.com/kevin1506)
  - 期望职位：前端开发工程师&emsp;期望薪资：13k-14k&emsp;期望城市：广州
 ## 专业技能
-<hr style="width:100%;height:1px;border:none;border-top:1px solid #999;margin-top:-18px;margin-bottom:-15px;" /> 
 - 熟悉html5和css，用其页面编写驾轻就熟
 - 熟悉javascript(4.5年)，es6语法，了解typeScript
 - 有较丰富的<span style="color:#dc9656">vue</span>开发经验(两年半)，熟悉全家桶，并了解其相关原理
@@ -16,7 +15,6 @@
 - 玩过react(能上手做项目)、node.js、doctor容器部署、nginx、http协议，php和sql
 - 熟练使用Git版本控制工具
 ## 工作经历（3家）
-<hr style="width:100%;height:1px;border:none;border-top:1px solid #999;margin-top:-18px;margin-bottom:-15px;" /> 
 ### 广州豌豆思维科技有限公司 （ 2021年5月 ~ 2021年8月 ）
 营销研发部 前端开发 离职原因：裁员
 
