@@ -1,5 +1,4 @@
 ## 联系方式
-<hr style="width:100%;height:1px;border:none;border-top:1px solid #999;margin-top:-18px;margin-bottom:-15px;" /> 
 手机(微信同号)：13682286581&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Email：1361786927@qq.com
 ## 个人信息
 <hr style="width:100%;height:1px;border:none;border-top:1px solid #999;margin-top:-18px;margin-bottom:-15px;" /> 
