@@ -9,7 +9,7 @@
 ## 专业技能
 - 熟悉html5和css，用其页面编写驾轻就熟
 - 熟悉javascript(4.5年)，es6语法，了解typeScript
-- 有较丰富的<span style="color:#dc9656">vue</span>开发经验(两年半)，熟悉全家桶，并了解其相关原理
+- 有较丰富的<span style="color:#dc9656">vue</span>开发经验(两年半)，并了解其相关原理，熟悉全家桶
 - 熟悉移动端、原生小程序，了解小程序框架uniapp、taro和移动端hybrid开发
 - 熟练使用echarts以及openlayersGIS开发
 - 玩过react(能上手做项目)、node.js、doctor容器部署、nginx、http协议，php和sql
